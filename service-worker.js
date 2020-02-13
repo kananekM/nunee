@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nunee/precache-manifest.3d5eb5b8bde3e7b6fc00e19e24a2b365.js"
+  "/nunee/precache-manifest.f647a78e8fca931777992df6989eca3e.js"
 );
 
 self.addEventListener('message', (event) => {
